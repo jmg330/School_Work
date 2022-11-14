@@ -1,0 +1,1 @@
+ami-00399ec92321828f5 t2.micro 1 subnet-3fd44654 linux-vm-desktop-itmo-444 sg-0b5409229058792ec file://install-app.sh
